@@ -50,4 +50,4 @@ Thus this label we shall see.
 ![alt](./img/white.jpg)
 
 We set a request , we recieve the request but nothing was found "no explicit mapping".
-Cant process request
+Cant process requ
