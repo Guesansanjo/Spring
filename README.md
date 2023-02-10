@@ -50,4 +50,9 @@ Thus this label we shall see.
 ![alt](./img/white.jpg)
 
 We set a request , we recieve the request but nothing was found "no explicit mapping".
-Cant process requ
+Cant process request.
+
+
+## More about embedded web server.
+[info config embbeded web server](https://docs.spring.io/spring-boot/docs/current/reference/html/howto.html#howto.webserver)
+
