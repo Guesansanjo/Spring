@@ -9,3 +9,18 @@ Spring has modules , like security , loggin ...
 ## Spring initizlizer
 
 [Spring initzializer](https://start.spring.io/)
+
+to change version of spring we can apply o the pom.xml .
+
+Everything else managed for us.
+
+![](./img/pom.jpg)
+
+The pom xml has packages and dependencies of the project , managed by maven in our case.
+
+
+## Running the app
+
+If tomcat starts works fine , it starts in port 8080.
+
+![alt](./img/tom.jpg)
