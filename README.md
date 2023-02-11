@@ -56,3 +56,12 @@ Cant process request.
 ## More about embedded web server.
 [info config embbeded web server](https://docs.spring.io/spring-boot/docs/current/reference/html/howto.html#howto.webserver)
 
+## How spring manages json response
+
+[Jackson](https://github.com/FasterXML/jackson)
+
+----------
+important jackson seralization and deserialization
+
+----------
+
