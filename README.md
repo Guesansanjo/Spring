@@ -76,3 +76,13 @@ important jackson seralization and deserialization
 N tier u have layers , each layer is resppnsible for performing 1 and only 1 single thing.
 
 We created our model--> Customer first.
+
+Allows to stote customers 
+## Data base
+
+
+![alt](./img/db.jpg)
+
+We will configure model with JPA "jakarta persistence" jakarta.persistence to map to database.
+
+We will configure interface extends a class wich will be mapped to the customer entity to allow us use sql queries managed by us by the jakarta api
