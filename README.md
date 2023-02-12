@@ -85,4 +85,4 @@ Allows to stote customers
 
 We will configure model with JPA "jakarta persistence" jakarta.persistence to map to database.
 
-We will configure interface extends a class wich will be mapped to the customer entity to allow us use sql queries managed by us by the jakarta api
+We will configure interface extends a class wich will be mapped to the customer entity to allow us use sql queries managed by us by the jakarta apidoc
