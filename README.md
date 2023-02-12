@@ -65,3 +65,14 @@ important jackson seralization and deserialization
 
 ----------
 
+
+
+## Spring N-tier architecture
+
+![alt](./img/ntier.jpg)
+
+![alt](./img/dao.jpg)
+
+N tier u have layers , each layer is resppnsible for performing 1 and only 1 single thing.
+
+We created our model--> Customer first.
